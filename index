@@ -5,6 +5,10 @@
   <title>The Solar System</title>
 </head>
 <body>
+  <figure>
+    <img src="images/logo.svg" alt="">
+    <figcaption>The Solar System</figcaption>
+  </figure>
 
 </body>
 </html>
