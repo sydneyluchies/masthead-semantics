@@ -5,10 +5,24 @@
   <title>The Solar System</title>
 </head>
 <body>
+
+  <header>
   <figure>
     <img src="images/logo.svg" alt="">
     <figcaption>The Solar System</figcaption>
   </figure>
+
+  <ul>
+    <li>Stars</li>
+    <li>Terrestrial planets</li>
+    <li>Gas giants</li>
+    <li>Dwarf planets</li>
+    <li>Asteroids</li>
+    <li>Comets</li>
+  </ul>
+
+
+
 
 </body>
 </html>
